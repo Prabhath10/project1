@@ -5,6 +5,7 @@ pasta
 chicken
 kheer
 
+pizza
 
 final copies
 
